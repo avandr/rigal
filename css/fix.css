@@ -1,0 +1,141 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.btn,
+.btn:hover,
+.carousel-control,
+.carousel-control:hover,
+a,
+a:hover {
+    transition: 0.3s;
+}
+
+.b2-phone_p1,
+.b2-phone_p2,
+.b2-cart_p1,
+.b2-cart_p2,
+.b10-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+.b2-cart_p1 {
+    font-size: 14px;
+}
+
+.b2-cart_p2 {
+    font-size: 20px;
+}
+
+.b2-cart {
+    margin-left: 30px;
+}
+
+.b2-enter {
+    margin-left: 40px;
+}
+
+.b2 input {
+    width: 300px;
+}
+
+.b2-enter p {
+    margin: 3px 0 3px 0;
+}
+
+.b2 input {
+    font-family: 'Roboto', sans-serif;
+}
+
+.b2 input:focus {
+    border: 2px solid #333;
+    background: url('../images/b2-inp-focus.png') no-repeat 14px center;
+    outline: none;
+    color: #333;
+    transition: 0.2s;
+}
+
+.b2 input {
+    transition: 0.2s;
+}
+
+.b2-phone_p2 {
+    margin-top: 3px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.b1 li a:hover {
+    color: #333;
+    transition: 0.3s;
+}
+
+.b1 li a {
+    transition: 0.3s;
+}
+
+.b2-phone,
+.b2-cart,
+.b2-enter {
+    padding-left: 55px;
+}
+
+.b5 .col-sm-6 {
+    padding: 70px 0 70px;
+}
+
+.b5-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+.b5 .btn {
+    width: 155px;
+}
+
+.btn,
+.b4 .btn {
+    font-family: 'Arial', sans-serif;
+}
+
+.st-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+.b6-unit-text {
+    font-size: 16px;
+}
+
+.b9-btn .btn:hover {
+    border: 2px solid #333;
+    background: none;
+}
+
+.b9-btn .btn {
+    font-size: 14px;
+}
+
+.b10-right .btn {
+    width: 155px;
+    font-family: 'Arial', sans-serif;
+}
+
+.b10-right-title {
+    font-size: 18px;
+}
+
+.b7 .film_roll_next {
+    background: url('../images/b7-l.png') no-repeat center center;
+    transform: scale(-1, 1);
+    transition: 0s;
+}
+
+.b7 .film_roll_next:hover {
+    background: url('../images/b7-r.png') no-repeat center center;
+    transition: 0s;
+    transform: scale(1, -1);
+   }
+
+.b7 .film_roll_prev:hover{
+	background: url('../images/b7-r.png') no-repeat center center;
+    transition: 0s;
+    transform: scale(-1, 1);
+}
